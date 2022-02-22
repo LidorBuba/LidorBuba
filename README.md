@@ -1,16 +1,13 @@
-### Hi there 👋
+# <center><Howdy, Friends! />
+## <center>I am Lidor, a 15 years old israeli dev Lover, Currently focused on C# Programming. Later in life, I'm interested to become a Fighter Pilot & engage in Astronomia. 👽Plus I am a Student🧑‍🎓, Goal-Oriented & Loving Life.❤️
 
-<!--
-**TheLlamaAmanda/TheLlamaAmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Goals:
+ - [ ] Publish My First Game
+ - [ ] Develop Useful Tools For The User
+ - [ ] Start A Game Company
+ - [ ] Find My True Love
+ - [ ] Become A Fighter Pilot
+ - [ ] Engage In Astronomia
+## Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lidor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true)
