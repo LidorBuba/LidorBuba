@@ -1,7 +1,6 @@
-#       <Howdy, Friends! />
-##     I am Lidor, a 15 years old israeli dev Lover, Currently focused on C# Programming. 
-##     Later in life, I'm interested to become a Fighter Pilot & engage in Astronomia. 👽  
-##     Plus I am a Student🧑‍🎓, Goal-Oriented & Loving Life.❤️
+# <center><Howdy, Friends! />
+## <center>I am Lidor, a 15 years old israeli dev Lover, Currently focused on C# Programming. Later in life, I'm interested to become a Fighter Pilot & engage in Astronomia. 👽Plus I am a Student🧑‍🎓, Goal-Oriented & Loving Life.❤️
+
 ## Goals:
  - [ ] Publish My First Game
  - [ ] Develop Useful Tools For The User
