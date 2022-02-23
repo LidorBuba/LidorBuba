@@ -21,7 +21,7 @@
 - I watch lots of motivation videos💪
 - I am a very sociable person😊
 - I get often angry mainly because something doesn't make any sense😡
-- I do not believe in a specific "God". But I'm sure there's someone behind all this existence😇
+- I do not believe in a specific "God", But I'm sure there's someone behind all this existence😇
 - i try my best to make things right, But if somethings goes wrong I atleast fix it😊
 
 <h3 > Statements I will take to the grave:</b> </h2>
