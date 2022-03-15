@@ -32,6 +32,10 @@
 - You chase something that you believe you deserve until you get it.
 - If opportunity doesn't knock, build a door.
 - Do not overthink your actions, it may cease you from accomplishing things outside of your comfort zone.
+- sometimes you need to feel the pain and sting of defeat to activate the real passion and purpose that god predestined inside of you.
+- purpose is an essential element of you, it is the reason you are on the planet at this particular time in history.
+- whatever you choose for a career path, remember the struggles along the way are only meant to shape you for your purpose.
+- How you fall doesn't matter. It's how you land!
 ## Stats:
 
 ![Lidor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true)
