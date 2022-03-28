@@ -36,6 +36,7 @@
 - purpose is an essential element of you, it is the reason you are on the planet at this particular time in history.
 - whatever you choose for a career path, remember the struggles along the way are only meant to shape you for your purpose.
 - How you fall doesn't matter. It's how you land!
+- No one notices your tears, no one notices your sadness, no one notices your pain. But they all notice your mistakes.
 ## Stats:
 
 ![Lidor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true)
