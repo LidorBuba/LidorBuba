@@ -37,6 +37,7 @@
 - whatever you choose for a career path, remember the struggles along the way are only meant to shape you for your purpose.
 - How you fall doesn't matter. It's how you land!
 - No one notices your tears, no one notices your sadness, no one notices your pain. But they all notice your mistakes.
+- Despair is to be conquered to improve upon your own Hope.
 ## Stats:
 
 ![Lidor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true)
