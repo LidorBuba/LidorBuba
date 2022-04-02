@@ -41,3 +41,6 @@
 ## Stats:
 
 ![Lidor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLlamaAmanda&layout=compact)](https://github.com/TheLlamaAmanda/github-readme-stats)
+
