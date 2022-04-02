@@ -39,8 +39,10 @@
 - No one notices your tears, no one notices your sadness, no one notices your pain. But they all notice your mistakes.
 - Despair is to be conquered to improve upon your own Hope.
 ## Stats:
-
-![Lidor's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLlamaAmanda&layout=compact)](https://github.com/TheLlamaAmanda/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLlamaAmanda&theme=monokai&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLlamaAmanda&layout=compact)](https://github.com/TheLlamaAmanda/github-readme-stats" />
+</a>
 
