@@ -1,6 +1,6 @@
 2/23/2022
 <h1 align="center"> Howdy, Friends!</b> </h1>
-<h3 align="center"><b> I am Lidor, a 15 years old israeli dev Lover, Currently focused on C# Programming.<br />Later in life, I'm interested to become a Fighter Pilot & engage in Astronomy.👽<br />Plus I am a Student🧑‍🎓, Goal-Oriented & Loving Life.❤️</b> </h3>
+<h3 align="center"><b> I am Lidor, a 15 years old israeli dev Lover, Currently focused on Game Developing.<br />Later in life, I'm interested to become a Fighter Pilot & engage in Astronomy.👽<br />Plus I am a Student🧑‍🎓, Goal-Oriented & Loving Life.❤️</b> </h3>
 <h1 align="center"> ---------------------------------------------------------------------------</b> </h1>
 
 <h1 align="center"> Personal Life</b> </h1>
