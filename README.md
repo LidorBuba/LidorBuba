@@ -1,6 +1,5 @@
 # Lidor Buba <br/>
-#### Software Engineer <br/>
-#### Developing in ASP.NET and MAUI.NET <br/>
+#### Currently taking the online CS50AI program in edx<br/>
 
 
 
@@ -27,5 +26,5 @@ I am still an active student who always enjoys learning new things. I have had m
 
 
 ## Get in touch 
-My site: [lidorbuba.com](https://www.lidorbuba.com/)
+My site: In development
 Email: lidorbubabs@gmail.com
