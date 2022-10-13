@@ -1,17 +1,4 @@
 # Lidor Buba <br/>
-#### Currently taking the online CS50AI program in edx<br/>
-
-
-
-
-## What are my values
-
-Being inquisitive and passionate
-
-Never giving up so easily
-
-Communication is crucial
-
 
 
 ## About me
