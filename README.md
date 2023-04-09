@@ -4,14 +4,4 @@
 ## About me
 
 
-When I initially received my first computer, I wanted to dig deeper and grasp the foundations of how the apps, web, and operating system functioned.
-Because of this, I decided to teach myself how to create them.
-I began by learning to code in "C#" and worked my way up through the industry.
-Discovering new worlds that alter my perception of the software and web development industries
-
-I am still an active student who always enjoys learning new things. I have had many experiences that have broadened my range of experience and knowledge, such as game development, sound engineering, and video production, which have helped me better comprehend the computer industry, Furthermore, I am currently enrolled in the online CS50x course at EDX to expand my knowledge of computer science.
-
-
-## Get in touch 
-My site: In development
-Email: lidorbubabs@gmail.com
+Cowabunga, and welcome to my coding dojo of shenanigans and code-fu! I approach game development with the same passion as Michelangelo painting the Sistine Chapel, and with the skills of a coding wizard and ninja combined. From solo coding projects to collaborating with fellow developers, I'm always on a quest to create games that are both fun and geeky cool. Whether I'm slaying bugs or conjuring up digital mayhem, my obsession with computer science keeps me hacking my way to the top. Join me on this wild ride of coding and let's create some epic games that will blow your socks off (and maybe your computer too, who knows?).
